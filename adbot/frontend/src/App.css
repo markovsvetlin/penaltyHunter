@@ -1,0 +1,23 @@
+.site-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10em;
+}
+
+.Logo {
+  font-size: 6em;
+}
+.url-input {
+  font-size: 1.5em;
+}
+.submit-button {
+  font-size: 1.5em;
+  background-color: #fff;
+  border-radius: 0.5em;
+  cursor: pointer;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: none;
+  padding: 0.5em 1em;
+  margin-left: 1em;
+}
